@@ -31,17 +31,17 @@
 ## 구현 기능
 
 ### 기능 1
-
+노래 선택
 ### 기능 2
-
+노래 난이도 선택
 ### 기능 3
-
+기존 점수, 콤보 / 최고 점수, 콤보
 ### 기능 4
-
+난이도에 따른 랜덤한 비트
 <br>
 
 ## 배운 점 & 아쉬운 점
-
+ 개인으로 프로젝트를 진행하여 유튜브를 참고하여 만들었다고 한들 따라 하는 것도 결국 쉬운 일이 아니라는 것을 알게 되었습니다. 후에 스스로 수정하고, 추가하고 싶은 것은 추가하고 해야할 상황이 왔을 때 어려운 부분이 많았지만 (난이도에 따른 랜덤한 비트, 이미지, 음악 파일 경로 수정, 저작권 없는 노래의 선텍 등) 잘 해결이 되어 결국 프로젝트를 만들었다는 것에 보람을 느꼈습니다.
 <p align="justify">
 
 </p>
@@ -54,7 +54,3 @@ MIT &copy; [NoHack](mailto:lbjp114@gmail.com)
 
 <!-- Stack Icon Refernces -->
 
-[js]: /images/stack/javascript.svg
-[ts]: /images/stack/typescript.svg
-[react]: /images/stack/react.svg
-[node]: /images/stack/node.svg
